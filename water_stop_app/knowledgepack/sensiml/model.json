@@ -1,0 +1,1 @@
+{"NumModels": 1, "ModelIndexes": {"0": "mypipeline_rank_0"}, "ModelDescriptions": [{"Name": "mypipeline_rank_0", "ClassMaps": {"1": "flow", "2": "stop", "0": "Unknown"}, "ModelType": "PME", "FeatureNames": ["gen_0014_SoundIQR"], "AIF": [202, 250], "Category": [1, 2], "Vector": [[205], [3]], "Identifiers": [0, 1], "DistanceMode": 0}]}
